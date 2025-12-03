@@ -12,6 +12,9 @@
   <a href="https://adventofcode.com/2024">
     <img src="https://img.shields.io/badge/AoC-2024-8803EC?logo=advent%20of%20code&logoColor=fff">
   </a>
+  <a href="https://adventofcode.com/2025">
+    <img src="https://img.shields.io/badge/AoC-2025-8803EC?logo=advent%20of%20code&logoColor=fff">
+  </a>
 
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
 [![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?&logo=go&logoColor=white)](#)
